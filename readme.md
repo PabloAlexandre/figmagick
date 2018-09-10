@@ -64,7 +64,8 @@ To setup you can pass this token as environment variable:
 FIGMA_TOKEN=your-token figmagick
 ```
 
-Or you can setup a .env file in root of your project if you prefer. **Disclaimer: Don't commit this .env file in your public repository**
+Or you can setup a .env file in root of your project if you prefer.
+**Don't commit this .env file in your public repository**
 
 ```
 FIGMA_TOKEN=your-token
