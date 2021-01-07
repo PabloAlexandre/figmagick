@@ -1,6 +1,6 @@
 {
   "name": "figmagick-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A package to keep updated your design tokens from figma in your JS applications",
   "bin": {
     "figmagick": "src/index.js"
