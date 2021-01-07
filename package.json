@@ -17,7 +17,7 @@
     "figma to js"
   ],
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dotenv": "^6.0.0",
     "mkdirp": "^0.5.1"
   },
@@ -25,7 +25,7 @@
     "eslint": "^5.5.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "jest": "^23.5.0"
+    "jest": "^26.6.3"
   },
   "author": "Pablo Alexandre <pabloalexandre.nave@gmail.com> (https://github.com/PabloAlexandre)",
   "license": "MIT",
